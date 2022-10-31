@@ -3,5 +3,5 @@ Save Format v3.0(19990112)
 @end;
 appname "popbill-sdk-example";
 applib "popbill-sdk-example.pbl";
-LibList "popbill-sdk-example.pbl;popbill.pbl;linkhub.pbl";
+LibList "linkhub.pbl;popbill.pbl;popbill-sdk-example.pbl";
 type "pb";
